@@ -4,16 +4,23 @@
 
 [点击查看详情](./ddl.md)
 
-## 增加/更新 会议
+## 增加/更新
 
 欢迎一起帮忙维护会议的相关信息！
 
 增加或删除会议信息：
+
 - Fork 这个仓库
 - 增加/更新 yml 文件 conference/conf_name.yml
 - 提交 pull request
 
-## 会议录入文件
+目前已有的会议：
+
+- [Black Hat USA](https://www.blackhat.com/us-23/)
+- [Black Hat Asia](https://www.blackhat.com/asia-23/)
+- [Black Hat Europe](https://www.blackhat.com/eu-22/)
+
+## 录入文件
 
 示例文件: conference/blackhat-usa.yml
 
@@ -82,12 +89,6 @@
       <td>会议举办的地点, 示例, <code>city, country</code></td>
    </tr>
 </table>
-
-## 会议清单
-
-- [Black Hat USA](https://www.blackhat.com/us-23/)
-- [Black Hat Asia](https://www.blackhat.com/asia-23/)
-- [Black Hat Europe](https://www.blackhat.com/eu-22/)
 
 ## 关注我们
 
