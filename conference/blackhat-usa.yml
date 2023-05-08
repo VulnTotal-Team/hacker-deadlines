@@ -1,0 +1,19 @@
+- title: Black Hat USA
+  description: Black Hat USA
+  confs:
+    - year: 2022
+      id: us-22
+      link: https://www.blackhat.com/us-22/
+      timeline:
+        - deadline: '2022-04-12 23:59:59'
+      timezone: UTC-8
+      date: August 9 - August 10, 2022
+      place: Mandalay Bay Convention Center, Las Vegas, NV
+    - year: 2023
+      id: us-23
+      link: https://www.blackhat.com/us-23/
+      timeline:
+        - deadline: '2023-04-12 23:59:59'
+      timezone: UTC-8
+      date: August 9 - August 10, 2023
+      place: Mandalay Bay Convention Center, Las Vegas, NV
