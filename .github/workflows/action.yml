@@ -25,7 +25,7 @@ jobs:
         git diff
         git config --global user.email firmianay@gmail.com
         git config --global user.name firmianay
-        git add archive ddl.md
+        git add ddl.md
         git commit -m "Update:`TZ=':Asia/Shanghai' date +' %Y-%m-%d %H:%m:%S'`"
 
     - name: Push changes
